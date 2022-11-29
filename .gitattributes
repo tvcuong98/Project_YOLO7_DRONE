@@ -2,6 +2,7 @@ yolov7.pt filter=lfs diff=lfs merge=lfs -text
 yolov7-d6_training.pt filter=lfs diff=lfs merge=lfs -text
 VisDrone2019-DET-train/ filter=lfs diff=lfs merge=lfs -text
 VisDrone2019-DET-val/ filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
